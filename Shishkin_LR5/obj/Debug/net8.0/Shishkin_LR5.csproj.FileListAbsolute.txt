@@ -1,0 +1,14 @@
+C:\Users\Stud-Prog\Desktop\Shishkin_LR5\obj\Debug\net8.0\Shishkin_LR5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stud-Prog\Desktop\Shishkin_LR5\obj\Debug\net8.0\Shishkin_LR5.AssemblyInfoInputs.cache
+C:\Users\Stud-Prog\Desktop\Shishkin_LR5\obj\Debug\net8.0\Shishkin_LR5.AssemblyInfo.cs
+C:\Users\Stud-Prog\Desktop\Shishkin_LR5\obj\Debug\net8.0\Shishkin_LR5.csproj.CoreCompileInputs.cache
+C:\Users\Stud-Prog\Desktop\Shishkin_LR5\bin\Debug\net8.0\Shishkin_LR5.exe
+C:\Users\Stud-Prog\Desktop\Shishkin_LR5\bin\Debug\net8.0\Shishkin_LR5.deps.json
+C:\Users\Stud-Prog\Desktop\Shishkin_LR5\bin\Debug\net8.0\Shishkin_LR5.runtimeconfig.json
+C:\Users\Stud-Prog\Desktop\Shishkin_LR5\bin\Debug\net8.0\Shishkin_LR5.dll
+C:\Users\Stud-Prog\Desktop\Shishkin_LR5\bin\Debug\net8.0\Shishkin_LR5.pdb
+C:\Users\Stud-Prog\Desktop\Shishkin_LR5\obj\Debug\net8.0\Shishkin_LR5.dll
+C:\Users\Stud-Prog\Desktop\Shishkin_LR5\obj\Debug\net8.0\refint\Shishkin_LR5.dll
+C:\Users\Stud-Prog\Desktop\Shishkin_LR5\obj\Debug\net8.0\Shishkin_LR5.pdb
+C:\Users\Stud-Prog\Desktop\Shishkin_LR5\obj\Debug\net8.0\Shishkin_LR5.genruntimeconfig.cache
+C:\Users\Stud-Prog\Desktop\Shishkin_LR5\obj\Debug\net8.0\ref\Shishkin_LR5.dll

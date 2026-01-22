@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kcp2qZ6mW8Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Stud-Prog\\Desktop\\Shishkin_LR5\\Shishkin_LR5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stud-Prog\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.23\\microsoft.windowsdesktop.app.ref.8.0.23.nupkg.sha512",
+    "C:\\Users\\Stud-Prog\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.23\\microsoft.netcore.app.ref.8.0.23.nupkg.sha512",
+    "C:\\Users\\Stud-Prog\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.23\\microsoft.aspnetcore.app.ref.8.0.23.nupkg.sha512",
+    "C:\\Users\\Stud-Prog\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.23\\microsoft.netcore.app.host.win-x64.8.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}
